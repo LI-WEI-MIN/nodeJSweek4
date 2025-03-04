@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# nodeJSweek4
-=======
+
+
 # Node.js + TypeORM 訓練
 
 ## 功能
@@ -16,4 +15,3 @@
 - `npm run restart` - 重新啟動伺服器與資料庫
 - `npm run stop` - 關閉啟動伺服器與資料庫
 - `npm run clean` - 關閉伺服器與資料庫並清除所有資料
->>>>>>> a0dcae9 (finish)
